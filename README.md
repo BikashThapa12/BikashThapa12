@@ -1,4 +1,4 @@
-![logo](https://github.com/BikashThapa12/BikashThapa12/blob/main/mathematics-1230074.jpg)
+![logo](https://github.com/BikashThapa12/BikashThapa12/blob/main/mathematics-1235606.jpg)
 
 <h1 align="center">Hi 👋, I'm Bikash Thapa</h1>
 <h3 align="center">A passionate physics student from Nepal</h3>
